@@ -28,6 +28,7 @@ export default function SouthAmerica() {
         </Heading>
         <Flex
           direction={["column", "row"]}
+          alignItems="center"
           justifyContent={["center", "space-between"]}
           flexWrap="wrap"
         >

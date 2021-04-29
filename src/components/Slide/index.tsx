@@ -21,7 +21,7 @@ export default function Slide() {
           href="https://unpkg.com/swiper/swiper-bundle.min.css"
         />
       </Head>
-      <Container maxW="container.xl" pb="10" px={["0", "24"]}>
+      <Container maxW="container.xl" pb={["6", "10"]} px={["0", "24"]}>
         <Swiper
           spaceBetween={0}
           slidesPerView={1}

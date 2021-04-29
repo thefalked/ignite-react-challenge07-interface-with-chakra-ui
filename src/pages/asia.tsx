@@ -24,6 +24,7 @@ export default function Asia() {
         </Heading>
         <Flex
           direction={["column", "row"]}
+          alignItems="center"
           justifyContent={["center", "space-between"]}
           flexWrap="wrap"
         >

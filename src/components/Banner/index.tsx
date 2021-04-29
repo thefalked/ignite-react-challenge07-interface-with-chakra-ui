@@ -13,7 +13,7 @@ export default function Banner() {
       />
       <Container
         maxW="container.xl"
-        px={["0", "24"]}
+        px={["4", "24"]}
         pos="absolute"
         top={0}
         bottom={0}
